@@ -439,8 +439,8 @@ in the Software without restriction...
 
 ## 👤 Author
 
-**mahi jain**
-- Registration: 25BCE10974
+**Sindhuja Nayak**
+- Registration: 25BCE10133
 - Subject: Fundamentals in AI/ML
 - Institution: vit bhopal
 
@@ -481,7 +481,7 @@ Having issues? Here's how to get help:
 1. **Check Documentation**: Review README and docs folder
 2. **Search Issues**: Look for similar problems in [Issues](https://github.com/yourusername/basic-image-classifier/issues)
 3. **Create Issue**: Open a new issue with details
-4. **Contact**: Email farah.raza@example.com
+4. **Contact**: Email sindhuja@example.com
 
 ---
 
@@ -499,6 +499,3 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 ---
 
-**Built with ❤️ using Python and TensorFlow**
-
-*Last Updated: November 23, 2025*
